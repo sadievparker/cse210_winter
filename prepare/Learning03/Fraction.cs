@@ -31,5 +31,6 @@ public class Fraction
     {
         return (double)_topnum / (double)_bottom;
     }
+    
 }
 
